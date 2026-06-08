@@ -1,5 +1,5 @@
 # Dasli
-![Alt text](daslu/preview1.png)
+![Alt text](dasli/preview1.png)
 
 
 This is the main repo of the caelestia dots and contains the user configs for
