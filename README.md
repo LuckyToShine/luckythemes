@@ -1,7 +1,9 @@
 # Dasli
 ![Alt text](dasli/preview2.png)
-
-
+# BlackArch
+![Alt text](blackarch/preview2.png)
+# DarkMono
+![Alt text](darkmono/preview2.png)
 This is the main repo of the caelestia dots and contains the user configs for
 apps. This repo also includes an install script to install the entire dots.
 
