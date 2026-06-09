@@ -38,8 +38,7 @@ options:
 For example:
 
 ```sh
-git clone https://github.com/caelestia-dots/caelestia.git ~/.local/share/caelestia
-~/.local/share/caelestia/install.fish
+git clone https://github.com/LuckyToShine/Dasli-theme.git
 ```
 
 ### Manual installation
