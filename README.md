@@ -17,6 +17,12 @@ IDK
 Get [`Caelestia shell`](https://github.com/caelestia-dots/shell) if you haven't already. Make sure you have the [`fish`](https://github.com/fish-shell/fish-shell) shell installed before running the automated setup.
 
 ```sh
+## Installation
+
+> [!NOTE]
+> This repo is for the desktop shell of the caelestia dots. If you want installation instructions
+> for the entire dots, head to [the main repo](https://github.com/caelestia-dots/caelestia) instead.
+
 # Clone the repository to the recommended directory
 git clone https://github.com/LuckyToShine/Dasli-theme.git ~
 
