@@ -11,6 +11,7 @@ IDK
 | ![Dasli](dasli/preview2.png) | **Dasli** | The vibrant, signature look of Windows 11. | Deep Blues and Black |
 | ![BlackArch](blackarch/preview2.png) | **BlackArch** | An aggressive, high-contrast dark theme optimized for stealth setups. | Pitch Black & Glowing Red |
 | ![DarkMono](darkmono/preview2.png) | **DarkMono** | A clean, minimalist aesthetic stripped of all color distractions. | Monochromatic Grays & White |
+| ![Reze](reze/preview2.png) | **Reze** | :P Placeholder | Purple |
 
 ### Prerequisites
 Make sure you have the [`fish`](https://github.com/fish-shell/fish-shell) shell installed before running the automated setup.
