@@ -14,8 +14,7 @@ IDK
 | ![Reze](reze/preview2.png) | **Reze** | :P Placeholder | Purple |
 
 ### Prerequisites
-Get Caelestia shell if you haven't already [`fish`]https://github.com/caelestia-dots/shell
-Make sure you have the [`fish`](https://github.com/fish-shell/fish-shell) shell installed before running the automated setup.
+Get [`Caelestia shell`](https://github.com/caelestia-dots/shell) if you haven't already. Make sure you have the [`fish`](https://github.com/fish-shell/fish-shell) shell installed before running the automated setup.
 
 ```sh
 # Clone the repository to the recommended directory
