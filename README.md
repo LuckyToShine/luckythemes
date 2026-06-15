@@ -8,7 +8,7 @@ A curated collection of custom color schemes and configurations for the **Caeles
 
 | Preview | Theme Name | Description | Key Accents |
 | :---: | :--- | :--- | :--- |
-| ![Dasli](dasli/preview2.png) | **Dasli** | The vibrant, signature look of Caelestia. | Warm Purples & Pinks |
+| ![Dasli](dasli/preview2.png) | **Dasli** | The vibrant, signature look of Windows 11. | Deep Blues and Black |
 | ![BlackArch](blackarch/preview2.png) | **BlackArch** | An aggressive, high-contrast dark theme optimized for stealth setups. | Pitch Black & Glowing Red |
 | ![DarkMono](darkmono/preview2.png) | **DarkMono** | A clean, minimalist aesthetic stripped of all color distractions. | Monochromatic Grays & White |
 
@@ -26,22 +26,13 @@ Make sure you have the [`fish`](https://github.com/fish-shell/fish-shell) shell 
 
 ```sh
 # Clone the repository to the recommended directory
-git clone [https://github.com/LuckyToShine/Dasli-theme.git](https://github.com/LuckyToShine/Dasli-theme.git) ~/.local/share/caelestia
+git clone https://github.com/LuckyToShine/Dasli-theme.git ~
 
 # Navigate to the directory
-cd ~/.local/share/caelestia
+cd ~/Dasli-theme
 
 ## Installation
-
-Simply clone this repo and run the install script (you need
-[`fish`](https://github.com/fish-shell/fish-shell) installed).
-
-> [!WARNING]
-> The install script symlinks all configs into place, so you CANNOT
-> move/remove the repo folder once you run the install script. If
-> you do, most apps will not behave properly and some (e.g. Hyprland)
-> will fail to start completely. I recommend cloning the repo to
-> `~/.local/share/caelestia`.
+sudo mv Dasli
 
 The install script has some options for installing configs for some apps.
 
