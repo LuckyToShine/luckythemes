@@ -25,12 +25,12 @@ Get [`Caelestia shell`](https://github.com/caelestia-dots/shell) if you haven't 
 
 ```sh
 # Clone the repository to the recommended directory
-git clone https://github.com/LuckyToShine/Dasli-theme.git ~
+git clone https://github.com/LuckyToShine/luckythemes.git ~
 
 # Navigate to the directory
-cd ~/Dasli-theme
+cd ~/luckythemes
 
 # Installation
-sudo mv Dasli
+~
 
 The install script has some options for installing configs for some apps.
