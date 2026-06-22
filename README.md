@@ -6,12 +6,12 @@ IDK
 
 ## 🎨 Available Themes
 
-| Preview | Theme Name | Description | Key Accents |
-| :---: | :--- | :--- | :--- |
-| ![Dasli](dasli/preview2.png) | **Dasli** | The vibrant, signature look of Windows 11. | Deep Blues and Black |
-| ![BlackArch](blackarch/preview2.png) | **BlackArch** | An aggressive, high-contrast dark theme optimized for stealth setups. | Pitch Black & Glowing Red |
-| ![DarkMono](monodark/preview2.png) | **Monodark** | A clean, minimalist aesthetic stripped of all color distractions. | Monochromatic Grays & White |
-| ![Reze](reze/preview2.png) | **Reze** | :P Placeholder | Purple |
+# Dasli
+![Alt text](dasli/preview2.png)
+# BlackArch
+![Alt text](blackarch/preview2.png)
+# DarkMono
+![Alt text](darkmono/preview2.png)
 
 ### Prerequisites
 Get [`Caelestia shell`](https://github.com/caelestia-dots/shell) if you haven't already. Make sure you have the [`fish`](https://github.com/fish-shell/fish-shell) shell installed before running the automated setup.
