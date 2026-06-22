@@ -11,7 +11,9 @@ IDK
 # BlackArch
 ![Alt text](blackarch/preview2.png)
 # DarkMono
-![Alt text](darkmono/preview2.png)
+![Alt text](monodark/preview2.png)
+# Reze
+![Alt text](reze/preview2.png)
 
 ### Prerequisites
 Get [`Caelestia shell`](https://github.com/caelestia-dots/shell) if you haven't already. Make sure you have the [`fish`](https://github.com/fish-shell/fish-shell) shell installed before running the automated setup.
